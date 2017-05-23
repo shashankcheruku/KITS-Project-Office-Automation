@@ -1,5 +1,10 @@
 # KITS-Project-Office-Automation
 
+## RAW Files
+
+Click [here](https://github.com/shashankcheruku/KITS-Project-Office-Automation/tree/master/KITSW%20Project%20Office/web) to view the files without downloading and executing them.
+
+## Download Link
 Click on this [link](https://drive.google.com/file/d/0B4qIdu7m7sgYN2oxMzhQclhOMDg/view?usp=sharing) to download the file zip file, which again has two files - zip file named KITS Project Office and kitsw_po.dmp file.
 
 ## Video Demo
@@ -16,10 +21,6 @@ From the downloaded zip file, you get two files:
   -  Open command prompt and enter this command - imp SYSTEM/shashank file=<file_location\kitsw_po.dmp> full=y;
   -  This imports all the tables (listed below) that are used in this project along with some sample data.
 - Open Netbeans and run the project, the project opens in the defualt browser.
-  
-## RAW Files
-
-Click [here](https://github.com/shashankcheruku/KITS-Project-Office-Automation/tree/master/KITSW%20Project%20Office/web) to view the files without downloading and executing them.
 
 ## List of Tables
 
