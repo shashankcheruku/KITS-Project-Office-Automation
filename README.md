@@ -24,16 +24,16 @@ From the downloaded zip file, you get two files:
 
 ## List of Tables
 
-- login
-- mntnce_entry
-- budget
-- quote_invite
-- quotes
-- purchases
-- shop_db
-- store
-- stock_issue
-- msg_box
-- complaints
-- comp_report
-- feedback
+- Login
+- Maintenance Entry
+- Budget
+- Quote Invitations
+- Quotes
+- Purchases List
+- Shop Database
+- Store
+- Stock Issue
+- Message Box
+- Complaints
+- Complaint Report
+- Feedback
