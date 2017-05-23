@@ -1,0 +1,9 @@
+body{
+    min-height: 100%;
+    background-image: url(kits_building.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td{
+    font-size: 30px;
+}
