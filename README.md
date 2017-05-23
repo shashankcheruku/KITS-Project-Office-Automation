@@ -1,8 +1,8 @@
 # KITS-Project-Office-Automation
 
-## RAW Files
+## RAW Files and Screenshots
 
-Click [here](https://github.com/shashankcheruku/KITS-Project-Office-Automation/tree/master/KITSW%20Project%20Office/web) to view the files without downloading and executing them.
+Click [here](https://github.com/shashankcheruku/KITS-Project-Office-Automation/tree/master/KITSW%20Project%20Office/web) to view the files without downloading and executing them. The screenshots of the execution have been provided [here](https://github.com/shashankcheruku/KITS-Project-Office-Automation/tree/master/Screenshots)
 
 ## Download Link
 Click on this [link](https://drive.google.com/file/d/0B4qIdu7m7sgYN2oxMzhQclhOMDg/view?usp=sharing) to download the file zip file, which again has two files - zip file named KITS Project Office and kitsw_po.dmp file.
