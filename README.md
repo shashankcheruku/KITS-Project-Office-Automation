@@ -5,7 +5,7 @@ Click on this [link](https://drive.google.com/file/d/0B4qIdu7m7sgYN2oxMzhQclhOMD
 ## Video Demo
 
 Click on the thumbnail below to view the video demonstrating the sample execution of the project.
-[![IMAGE ALT TEXT HERE](https://github.com/shashankcheruku/KITS-Project-Office-Automation/blob/master/Screenshots/0_Video%20Screenshot.jpg)](https://www.youtube.com/watch?v=wIk0pgwrnn0&t=292s)
+[![IMAGE ALT TEXT HERE](https://github.com/shashankcheruku/KITS-Project-Office-Automation/blob/master/Screenshots/0_Video%20Screenshot.jpg)](https://youtu.be/wIk0pgwrnn0)
 
 ## Environment Setup
 
